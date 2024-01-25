@@ -1,4 +1,4 @@
-package src;
+package com.example.provaufficiale.src;
 
 public class ciao {
     public String nome;
